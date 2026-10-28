@@ -36,7 +36,7 @@ Contact: Claritygamedev@gmail.com
    and the three pages above.
 7. Paste the Privacy Policy address into Google Play Console > App content >
    Privacy policy, the Delete-your-account address into App content > Data
-   deletion, and both into the CrazyGames submission form.
+   deletion, and both into each web portal's submission form.
 
 ## Update it later
 
